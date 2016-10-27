@@ -1,3 +1,8 @@
+---
+layout: page
+title: Helpful Tips
+permalink: /tips/
+---
 #Helpful Tips
 
 ##Conventional vs. Synthetic Oil
