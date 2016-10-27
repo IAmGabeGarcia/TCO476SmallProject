@@ -1,3 +1,7 @@
+---
+layout: page
+title: Home
+---
 ![OilPourinVehicle](http://www.brakemasters.com/app/uploads/2014/10/14033730681125.jpg)
 #What is the purpose of changing the oil in a car?
 As your car is running, the engine oil breaks down and wears out. When the oil breaks down it becomes less effective at lubricating the engine and absorbing heat. Because the oil looses its effectiveness you must change it before it begins to cause major problems within your engine. 
