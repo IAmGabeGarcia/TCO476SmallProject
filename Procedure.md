@@ -1,4 +1,9 @@
-#Changing your oil in 10 steps
+---
+layout: page
+title: Changing your oil in 10 steps
+permalink: /steps/
+---
+
 ------ 
 
 ##Overview
