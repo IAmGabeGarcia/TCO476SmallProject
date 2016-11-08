@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Tools and Materials Needed
+title: Tools and Materials Required
+permalink: /tools/
 ---
 ![Tools](http://motorsblog-sandbox-yi7vl.ebayc3.com/motors/blog/wp-content/uploads/2013/02/diy_oil_change_02.jpg)
 
