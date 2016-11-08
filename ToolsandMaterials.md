@@ -1,4 +1,7 @@
-#Tools and Materials Needed
+---
+layout: page
+title: Tools and Materials Needed
+---
 ![Tools](http://motorsblog-sandbox-yi7vl.ebayc3.com/motors/blog/wp-content/uploads/2013/02/diy_oil_change_02.jpg)
 
  - Tools Required:
